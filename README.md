@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hey+%F0%9F%91%8B+What's+up%3F;I'm+Yuzu%F0%9F%8D%8A)](https://git.io/typing-svg)
-
+#
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">I'm Yuzu from Japan.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- 🎥 I mainly create content on YouTube.<br>- 🤖 I make videos about AI, productivity hacks, and Minecraft.<br>- ⚡ In my free time I enjoy sleeping.</p>
 
