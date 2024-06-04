@@ -25,6 +25,11 @@
   <img alt="github stats" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuzu-krs&theme=tokyonight" />
 </p>
 
-
+#
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuzu-krs/yuzu-krs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuzu-krs/yuzu-krs/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuzu-krs/yuzu-krs/output/github-contribution-grid-snake.svg">
+</picture>
 
 
