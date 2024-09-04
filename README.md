@@ -1,7 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Hey+%F0%9F%91%8B+What's+up%3F;I'm+Yuzu%F0%9F%8D%8A)](https://git.io/typing-svg)
 #
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left">I'm Yuzu from Japan.<br><br>- 🔭 Lately, I've been working on creating a Minecraft client! I'd be thrilled if you could give it a star.<br>- ⭐ https://github.com/yuzu-krs/YuzuClient<br>- 📚 I'm learning anything that piques my interest.<br>- 🎥 I mainly create content on YouTube.<br>- 🤖 I make videos about AI, productivity hacks, and Minecraft.<br>- ⚡ In my free time I enjoy sleeping.</p>
+<p align="left">I'm Yuzu from Japan.<br><br>- 🔭 Lately, I've been working on creating a Minecraft client! I'd be thrilled if you could give it a star.<br>
+  - ⭐ Hack client packed with unique features
+  - ➡ https://github.com/yuzu-krs/YuzuClient<br>
+  - ⭐ Client for programming education
+  - ➡ https://github.com/yuzu-krs/EduCraft<br>- 📚 I'm learning anything that piques my interest.<br>- 🎥 I mainly create content on YouTube.<br>- 🤖 I make videos about AI, productivity hacks, and Minecraft.<br>- ⚡ In my free time I enjoy sleeping.</p>
 
 #
 <h3 align="left">🔗   Connect with me</h3>
