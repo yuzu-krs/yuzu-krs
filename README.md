@@ -10,7 +10,7 @@
 #
 <h3 align="left">🔗   Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/yuzubon0211" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/4029/PNG/512/twitter_x_new_logo_square_x_icon_256075.png" alt="@yuzubon0211" height="30" width="40" /></a>
+<a href="https://twitter.com/yuzubon0211" target="blank"><img align="center" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="@yuzubon0211" height="25" width="28" /></a>
 <a href="https://www.youtube.com/@yuzu_krs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yuzu_krs" height="30" width="40" /></a>
 <a href="https://discord.gg/CMNQXnVgC4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CMNQXnVgC4" height="30" width="40" /></a>
 </p>
