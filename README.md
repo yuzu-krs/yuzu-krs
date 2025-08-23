@@ -40,41 +40,40 @@
 ## 🌟 Current Projects
 
 <div align="center">
-  <h3>🚀 dropjet.xyz - Web Development & Hosting</h3>
+  <h3>🚀 dropjet.xyz - File Sharing Service</h3>
 </div>
 
-I'm currently operating **dropjet.xyz**, a platform focused on web development and hosting solutions. This project allows me to:
+I'm currently operating **dropjet.xyz**, a file sharing platform that provides:
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">🛠️ Web Development</td>
-      <td align="center">☁️ Hosting Services</td>
+      <td align="center">📁 File Sharing</td>
+      <td align="center">⚡ Fast Upload</td>
     </tr>
     <tr>
-      <td align="center">Creating modern, responsive websites</td>
-      <td align="center">Providing reliable hosting solutions</td>
+      <td align="center">Secure and reliable file sharing</td>
+      <td align="center">High-speed file upload and download</td>
     </tr>
     <tr>
-      <td align="center">🔧 Technical Support</td>
-      <td align="center">📈 Performance Optimization</td>
+      <td align="center">🔒 Secure Storage</td>
+      <td align="center">🌐 Easy Access</td>
     </tr>
     <tr>
-      <td align="center">Offering comprehensive technical assistance</td>
-      <td align="center">Ensuring fast and efficient web experiences</td>
+      <td align="center">Protected file storage and transfer</td>
+      <td align="center">Simple and intuitive web interface</td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <h4>Visit <a href="https://dropjet.xyz">dropjet.xyz</a> to explore our services and see what we can build together!</h4>
+  <h4>Visit <a href="https://dropjet.xyz">dropjet.xyz</a> to share your files quickly and securely!</h4>
 </div>
 
 ### 🏠 Home Infrastructure & DevOps Experience
 - **Proxmox VE**: Virtualization environment
 - **Self-hosted Services**: Nextcloud, monitoring, automation
 - **Secure Networking**: Tailscale/WireGuard VPN, SSH authentication
-- **Infrastructure as Code**: Version-controlled infrastructure management
 
 ---
 
@@ -82,10 +81,10 @@ I'm currently operating **dropjet.xyz**, a platform focused on web development a
 
 <div align="center">
   <h3>💻 Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,rust,haskell,php,javascript,typescript,html,css,sql&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,rust&theme=dark" alt="Programming Languages" />
   
   <h3>🏗️ Infrastructure & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,git,github,vscode,idea&theme=dark" alt="Infrastructure & DevOps" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,cloudflare,supabase,git,github,vscode,idea,eclipse&theme=dark" alt="Infrastructure & DevOps" />
 </div>
 
 ---
@@ -178,7 +177,7 @@ I'm currently operating **dropjet.xyz**, a platform focused on web development a
     </tr>
     <tr>
       <td align="center">Creating innovative features for the Minecraft community</td>
-      <td align="center">Operating dropjet.xyz for hosting and development services</td>
+      <td align="center">Operating dropjet.xyz file sharing service</td>
     </tr>
     <tr>
       <td align="center">🤖 AI Projects</td>
@@ -207,6 +206,7 @@ I'm currently operating **dropjet.xyz**, a platform focused on web development a
   <h3>⭐ Star this repository if you found it helpful!</h3>
   <h3>🤝 Let's connect and build something amazing together!</h3>
 </div>
+
 
 
 
