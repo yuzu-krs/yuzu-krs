@@ -31,7 +31,6 @@
 - 🎮 **Minecraft Expert**: Creating unique hack clients and educational tools
 - 🤖 **AI Enthusiast**: Exploring AI applications and productivity tools
 - 🏠 **Home Server**: Proxmox VE, self-hosted services, VPN setup
-- 🔧 **DevOps**: CI/CD pipelines, automation, infrastructure as code
 - 📚 **Lifelong Learner**: Constantly expanding my tech stack
 - 🎥 **Content Creator**: Sharing knowledge through YouTube, Zenn, and Discord
 - ⚡ **Free Time**: Sleeping (because even full stack engineers need rest! 😴)
@@ -75,7 +74,6 @@ I'm currently operating **dropjet.xyz**, a platform focused on web development a
 - **Proxmox VE**: Virtualization environment
 - **Self-hosted Services**: Nextcloud, monitoring, automation
 - **Secure Networking**: Tailscale/WireGuard VPN, SSH authentication
-- **CI/CD**: GitHub Actions, automated testing, deployment pipelines
 - **Infrastructure as Code**: Version-controlled infrastructure management
 
 ---
@@ -210,6 +208,7 @@ I'm currently operating **dropjet.xyz**, a platform focused on web development a
   <h3>⭐ Star this repository if you found it helpful!</h3>
   <h3>🤝 Let's connect and build something amazing together!</h3>
 </div>
+
 
 
 
