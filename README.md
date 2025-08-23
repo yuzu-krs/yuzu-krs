@@ -131,7 +131,6 @@ I'm currently operating **dropjet.xyz**, a platform focused on web development a
 - **Self-hosted Services**: Nextcloud, monitoring, automation
 - **Secure VPN Setup**: Tailscale/WireGuard with exit nodes
 - **Minecraft Server Hosting**: Reliable game server infrastructure
-- **DevOps Automation**: CI/CD pipelines, automated deployments
 
 ---
 
@@ -208,6 +207,7 @@ I'm currently operating **dropjet.xyz**, a platform focused on web development a
   <h3>⭐ Star this repository if you found it helpful!</h3>
   <h3>🤝 Let's connect and build something amazing together!</h3>
 </div>
+
 
 
 
