@@ -105,9 +105,17 @@ A modern file transfer platform optimized for speed and usability.
   <h3>💻 Programming Languages</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,rust&theme=dark" />
 
+  <h3>🖼️ Frontend ｜ ⚙️ Backend</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vite,nodejs,bun,npm,prisma&theme=dark" />
+
   <h3>🏗️ Infrastructure & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,cloudflare,supabase,git,github,vscode,idea,eclipse&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,cloudflare,azure,supabase,git,github,grafana&theme=dark" />
+
+  <h3>🧪 Tools / Security / Editors</h3>
+  <img src="https://skillicons.dev/icons?i=kali,postman,vscode,idea,eclipse,emacs&theme=dark" />
 </div>
+
+
 
 ---
 
@@ -176,3 +184,4 @@ A modern file transfer platform optimized for speed and usability.
   <h3>⭐ If you like my work, consider giving a star!</h3>
   <h3>🤝 Let's build something amazing together!</h3>
 </div>
+
