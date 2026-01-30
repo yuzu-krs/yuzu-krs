@@ -171,7 +171,7 @@ A modern file transfer platform optimized for speed and usability.
 
 <div align="center">
   <a href="https://x.com/yuzu_krs"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-  <a href="https://www.youtube.com/@yuzu_krs"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+  <a href="https://www.youtube.com/@yuzu-krs"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
   <a href="https://discord.gg/CMNQXnVgC4"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://zenn.dev/yuzu_krs"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white"></a>
   <a href="https://github.com/yuzu-krs"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -184,5 +184,6 @@ A modern file transfer platform optimized for speed and usability.
   <h3>⭐ If you like my work, consider giving a star!</h3>
   <h3>🤝 Let's build something amazing together!</h3>
 </div>
+
 
 
