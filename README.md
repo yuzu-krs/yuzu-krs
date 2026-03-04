@@ -11,8 +11,28 @@
 
 ---
 
+
+## 🔗 Connect With Me
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuzu-krs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <a href="https://x.com/yuzu_krs">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@yuzu-krs">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://discord.gg/6rNFFcuHsg">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://zenn.dev/yuzu_krs">
+    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white">
+  </a>
+  <a href="https://github.com/yuzu-krs">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://tryhackme.com/p/yuzukrs">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red">
+  </a>
 </div>
 
 ---
@@ -20,7 +40,7 @@
 ## 👋 About Me
 
 <div align="center">
-  <h3>🎯 Full Stack Engineer & DevOps Specialist</h3>
+  <h3>🎯 Full Stack Engineer & DevOps </h3>
   <h3>🚀 Minecraft Developer & AI Enthusiast</h3>
   <h3>🏠 Home Server Architect & Infrastructure Builder</h3>
   <h3>💡 Always learning, always building</h3>
@@ -90,6 +110,19 @@ A modern file transfer platform optimized for speed and usability.
 
 ---
 
+# 🍪 cookieSMP – Public Minecraft Server
+
+<div align="center">
+
+### 🎮 Survival Multiplayer Server  
+**IP:** `play.cookiesmp.lol`  
+**Version:** `1.21.11`
+
+✨ A community-driven survival server built with performance and stability in mind.  
+
+</div>
+
+---
 ## 🏠 Home Infrastructure & DevOps Experience
 - **Proxmox VE** virtualization  
 - **Self-hosted Services:** Nextcloud, monitoring, automation  
@@ -122,7 +155,6 @@ A modern file transfer platform optimized for speed and usability.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzu-krs&layout=compact&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuzu-krs&theme=tokyonight" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuzu-krs&theme=tokyonight" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuzu-krs&theme=tokyonight" />
@@ -132,26 +164,11 @@ A modern file transfer platform optimized for speed and usability.
 
 ## 🏆 Featured Repositories
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-  <h3>🎮 YuzuClient</h3>
-  <a href="https://github.com/yuzu-krs/YuzuClient">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuzu-krs&repo=YuzuClient&theme=tokyonight&hide_border=true" width="100%">
-  </a>
-  <p>Advanced Minecraft client with unique features</p>
-</td>
-<td width="50%" align="center">
-  <h3>📚 EduCraft</h3>
-  <a href="https://github.com/yuzu-krs/EduCraft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuzu-krs&repo=EduCraft&theme=tokyonight&hide_border=true" width="100%">
-  </a>
-  <p>Educational Minecraft environment for learning programming</p>
-</td>
-</tr>
-</table>
-</div>
+### 🎮 [YuzuClient](https://github.com/yuzu-krs/YuzuClient)
+Advanced Minecraft client with unique features  
+
+### 📚 [EduCraft](https://github.com/yuzu-krs/EduCraft)
+Educational Minecraft environment for learning programming  
 
 ---
 
@@ -167,23 +184,12 @@ A modern file transfer platform optimized for speed and usability.
 
 ---
 
-## 🔗 Connect With Me
-
-<div align="center">
-  <a href="https://x.com/yuzu_krs"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-  <a href="https://www.youtube.com/@yuzu-krs"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-  <a href="https://discord.gg/6rNFFcuHsg"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://zenn.dev/yuzu_krs"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white"></a>
-  <a href="https://github.com/yuzu-krs"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
-
----
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuzu-krs&theme=tokyonight&hide_border=true">
   <h3>⭐ If you like my work, consider giving a star!</h3>
   <h3>🤝 Let's build something amazing together!</h3>
 </div>
+
 
 
 
