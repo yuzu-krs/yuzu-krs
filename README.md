@@ -136,7 +136,7 @@ A modern file transfer platform optimized for speed and usability.
 
 <div align="center">
   <h3>💻 Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,rust&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,typescript,go,rust&theme=dark" />
 
   <h3>🖼️ Frontend ｜ ⚙️ Backend</h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vite,nodejs,bun,npm,prisma&theme=dark" />
@@ -189,6 +189,7 @@ Educational Minecraft environment for learning programming
   <h3>⭐ If you like my work, consider giving a star!</h3>
   <h3>🤝 Let's build something amazing together!</h3>
 </div>
+
 
 
 
