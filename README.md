@@ -85,6 +85,34 @@ Built with **Supabase**, **Stripe**, and modern full-stack technologies.
 
 ---
 
+
+# 🌐 **SoraLink – NAT Traversal Service**
+
+<table>
+<tr>
+<td width="40%">
+  <img src="https://github.com/yuzu-krs/yuzu-krs/blob/main/img/a440a69f-d43f-4391-8cde-6ddcd89e3a77.png" width="100%">
+</td>
+<td width="60%" align="left">
+
+### 🚀 Expose Local Servers to the Internet  
+
+A lightweight and powerful NAT traversal service like playit.gg.
+
+- 🌍 Public access to localhost services  
+- 🔌 Simple tunnel setup  
+- ⚡ Low latency relay system  
+- 🛠 Built for developers & gamers  
+- 🎮 Perfect for Minecraft / self-hosted apps  
+
+🌐 **Coming Soon**
+
+</td>
+</tr>
+</table>
+
+---
+
 # 📦 **DropJet – High-Speed File Sharing**
 
 <table>
