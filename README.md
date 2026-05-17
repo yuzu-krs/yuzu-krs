@@ -86,18 +86,18 @@ Built with **Supabase**, **Stripe**, and modern full-stack technologies.
 ---
 
 
-# 🌐 **SoraLink – NAT Traversal Service**
+# 🌐 **proxlane – NAT Traversal Service**
 
 <table>
 <tr>
 <td width="40%">
-  <img src="https://github.com/yuzu-krs/yuzu-krs/blob/main/img/a440a69f-d43f-4391-8cde-6ddcd89e3a77.png" width="100%">
+  <img src="https://github.com/yuzu-krs/yuzu-krs/blob/main/img/ChatGPT%20Image%202026%E5%B9%B45%E6%9C%8817%E6%97%A5%2010_52_07.png" width="100%">
 </td>
 <td width="60%" align="left">
 
 ### 🚀 Expose Local Servers to the Internet  
 
-A lightweight and powerful NAT traversal service like playit.gg.
+A lightweight and powerful NAT traversal service like ngrok.
 
 - 🌍 Public access to localhost services  
 - 🔌 Simple tunnel setup  
