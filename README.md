@@ -79,12 +79,12 @@ Built with **Supabase**, **Stripe**, and modern full-stack technologies.
 - 📈 Designed for both beginners and professionals
 
 🌐 **Website:** https://cloudru.jp  
+
 </td>
 </tr>
 </table>
 
 ---
-
 
 # 🌐 **proxlane – NAT Traversal Service**
 
@@ -97,15 +97,17 @@ Built with **Supabase**, **Stripe**, and modern full-stack technologies.
 
 ### 🚀 Expose Local Servers to the Internet  
 
-A lightweight and powerful NAT traversal service like ngrok.
+A lightweight and powerful NAT traversal service inspired by ngrok.
 
-- 🌍 Public access to localhost services  
+- 🌍 Public access to localhost services
 - 🔌 Simple tunnel setup  
 - ⚡ Low latency relay system  
 - 🛠 Built for developers & gamers  
 - 🎮 Perfect for Minecraft / self-hosted apps  
 
-🌐 **Coming Soon**
+🔗 https://github.com/yuzu-krs/soralink
+
+🌐 **Coming Soon** 
 
 </td>
 </tr>
@@ -123,6 +125,7 @@ A lightweight and powerful NAT traversal service like ngrok.
 <td width="60%" align="left">
 
 ### ⚡ Simple, Fast, and Secure File Sharing  
+
 A modern file transfer platform optimized for speed and usability.
 
 - 📁 Quick & secure uploads
@@ -138,17 +141,26 @@ A modern file transfer platform optimized for speed and usability.
 
 ---
 
-# 🍪 cookieSMP – Public Minecraft Server
+# 🍪 **cookieSMP – Public Minecraft Server**
 
-<div align="center">
+<table>
+<tr>
+<td width="40%">
+  <img src="https://github.com/yuzu-krs/yuzu-krs/blob/main/img/server-icon.png" width="100%">
+</td>
+<td width="60%" align="left">
 
-### 🎮 Survival Multiplayer Server  
-**IP:** `play.cookiesmp.lol`  
-**Version:** `1.21.11`
+### 🎮 Survival Multiplayer Server
 
-✨ A community-driven survival server built with performance and stability in mind.  
+- 🌍 IP: `play.cookiesmp.lol`
+- 📦 Version: `1.21.1`
+- ⚡ Optimized for performance & stability
+- 👥 Community-driven gameplay
+- 🛠 Custom server configurations & plugins
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 ## 🏠 Home Infrastructure & DevOps Experience
