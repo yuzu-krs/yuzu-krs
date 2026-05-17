@@ -107,7 +107,7 @@ A lightweight and powerful NAT traversal service inspired by ngrok.
 
 🔗 https://github.com/yuzu-krs/soralink
 
-🌐 **Coming Soon** 
+🌐 **Coming Soon** https://proxlane.com
 
 </td>
 </tr>
