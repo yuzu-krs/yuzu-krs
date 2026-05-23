@@ -105,8 +105,6 @@ A lightweight and powerful NAT traversal service inspired by ngrok.
 - 🛠 Built for developers & gamers  
 - 🎮 Perfect for Minecraft / self-hosted apps  
 
-🔗 https://github.com/yuzu-krs/soralink
-
 🌐 **Coming Soon** https://proxlane.com
 
 </td>
