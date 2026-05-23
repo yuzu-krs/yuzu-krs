@@ -105,7 +105,7 @@ A lightweight and powerful NAT traversal service inspired by ngrok.
 - 🛠 Built for developers & gamers  
 - 🎮 Perfect for Minecraft / self-hosted apps  
 
-🌐 **Coming Soon** https://proxlane.com
+🌐 **Website:** https://proxlane.com
 
 </td>
 </tr>
