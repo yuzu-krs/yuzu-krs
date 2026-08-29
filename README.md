@@ -131,7 +131,7 @@ A modern file transfer platform optimized for speed and usability.
 - 🔒 Privacy-focused temporary storage  
 - 🌐 Clean and intuitive UI
 
-🌐 **Website:** https://dropjet.xyz  
+🌐 **Website:** https://dropjet.proxlane.com/
 
 </td>
 </tr>
