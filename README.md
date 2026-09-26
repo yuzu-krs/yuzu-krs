@@ -43,8 +43,6 @@ My main interests are:
 - Discord bots
 - Minecraft development
 
-I enjoy working across different layers of a system, from applications and APIs to infrastructure and networking.
-
 ---
 
 ## Projects
@@ -82,7 +80,7 @@ Minecraft-based programming education project.
 ## Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,typescript,go,rust,react,nextjs,angular,vite,nodejs,bun,npm,dotnet,prisma,supabase,postgres,sqlite,linux,docker,kubernetes,nginx,cloudflare,azure,git,github,grafana,cmake,androidstudio,kali,postman,vscode,visualstudio,idea,eclipse,emacs,discord&theme=dark&perline=13" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,go,rust,react,nextjs,angular,vite,nodejs,bun,npm,dotnet,prisma,supabase,postgres,sqlite,linux,docker,kubernetes,nginx,cloudflare,azure,git,github,grafana,cmake,androidstudio,kali,postman,vscode,visualstudio,idea,eclipse,emacs&theme=dark&perline=13" />
 </p>
 
 <p>
@@ -98,7 +96,6 @@ Minecraft-based programming education project.
   <img src="https://img.shields.io/badge/LLM-333333?style=flat-square" />
   <img src="https://img.shields.io/badge/RAG-333333?style=flat-square" />
   <img src="https://img.shields.io/badge/OCR-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Multimodal%20AI-333333?style=flat-square" />
 </p>
 
 ---
@@ -107,7 +104,7 @@ Minecraft-based programming education project.
 
 I run my own infrastructure for development, experimentation, hosting, storage, and networking.
 
-```text
+<pre>
 Home Lab
 ├─ Proxmox VE
 ├─ TrueNAS SCALE
@@ -118,22 +115,13 @@ Home Lab
 ├─ Monitoring
 ├─ Self-hosted services
 └─ Development / application hosting
-```
+</pre>
 
 I enjoy learning infrastructure and networking by building and operating real systems.
 
 ---
 
-## Latest Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-More articles on **[Zenn](https://zenn.dev/yuzu_krs)**.
-
----
-
-## GitHub
+## GitHub Stats
 
 <div align="center">
 
