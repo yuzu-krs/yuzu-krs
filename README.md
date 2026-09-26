@@ -113,8 +113,6 @@ Home Lab
 └─ Development / application hosting
 </pre>
 
-I enjoy learning infrastructure and networking by building and operating real systems.
-
 ---
 
 ## GitHub Stats
