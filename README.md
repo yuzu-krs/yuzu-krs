@@ -57,7 +57,7 @@ Supports **HTTP, HTTPS, TCP, and UDP** tunneling with features including reserve
 
 Cloud server platform for development environments, game servers, and self-hosted applications.
 
-Built with technologies including **Supabase** and **Stripe**.
+Built with technologies including **SQLite** and **Stripe**.
 
 ### [DropJet](https://dropjet.proxlane.com)
 
