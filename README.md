@@ -92,10 +92,6 @@ Minecraft-based programming education project.
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Wails-DF0000?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/OCR-333333?style=flat-square" />
 </p>
 
 ---
