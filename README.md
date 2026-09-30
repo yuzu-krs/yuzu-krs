@@ -23,11 +23,16 @@
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white">
 </a>
 
+<br>
+
+<img src="https://img.shields.io/github/followers/yuzu-krs?style=flat-square&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/stars/yuzu-krs?style=flat-square&logo=github&label=Stars" />
+
 </div>
 
 ---
 
-## About
+## 👋 About
 
 I'm **yuzu-krs**, a software engineer from Japan.
 
@@ -45,7 +50,7 @@ My main interests are:
 
 ---
 
-## Projects
+## 🚀 Projects
 
 ### [Proxlane](https://proxlane.com)
 
@@ -77,7 +82,7 @@ Minecraft-based programming education project.
 
 ---
 
-## Skills
+## 🛠️ Skills
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,go,rust,react,nextjs,angular,vite,nodejs,bun,npm,dotnet,prisma,supabase,postgres,sqlite,linux,docker,kubernetes,nginx,cloudflare,azure,git,github,grafana,cmake,androidstudio,kali,postman,vscode,visualstudio,idea,eclipse,emacs&theme=dark&perline=13" />
@@ -96,7 +101,7 @@ Minecraft-based programming education project.
 
 ---
 
-## Home Lab
+## 🏠 Home Lab
 
 I run my own infrastructure for development, experimentation, hosting, storage, and networking.
 
@@ -115,7 +120,7 @@ Home Lab
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -134,7 +139,7 @@ Home Lab
 
 ---
 
-## Contributions
+## 🐍 Contributions
 
 <div align="center">
 
